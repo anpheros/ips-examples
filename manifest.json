@@ -1,0 +1,127 @@
+{
+  "history_until": "2026-10-01",
+  "ig": "hl7.fhir.uv.ips#1.1.0",
+  "language": "en",
+  "summaries": [
+    {
+      "file": "summaries/01-marie-dupont.json",
+      "name": "Marie Dupont"
+    },
+    {
+      "file": "summaries/02-ciaran-murphy.json",
+      "name": "Ciarán Murphy"
+    },
+    {
+      "file": "summaries/03-giulia-rossi.json",
+      "name": "Giulia Rossi"
+    },
+    {
+      "file": "summaries/04-andrei-popescu.json",
+      "name": "Andrei Popescu"
+    },
+    {
+      "file": "summaries/05-jan-kowalczyk.json",
+      "name": "Jan Kowalczyk"
+    },
+    {
+      "file": "summaries/06-javier-garcia.json",
+      "name": "Javier García"
+    },
+    {
+      "file": "summaries/07-luca-bianchi.json",
+      "name": "Luca Bianchi"
+    },
+    {
+      "file": "summaries/08-tomas-novak.json",
+      "name": "Tomáš Novák"
+    },
+    {
+      "file": "summaries/09-aino-virtanen.json",
+      "name": "Aino Virtanen"
+    },
+    {
+      "file": "summaries/10-elena-ionescu.json",
+      "name": "Elena Ionescu"
+    },
+    {
+      "file": "summaries/11-chloe-dubois.json",
+      "name": "Chloé Dubois"
+    },
+    {
+      "file": "summaries/12-pieter-de-vries.json",
+      "name": "Pieter de Vries"
+    },
+    {
+      "file": "summaries/13-felix-gruber.json",
+      "name": "Felix Gruber"
+    },
+    {
+      "file": "summaries/14-matei-dumitrescu.json",
+      "name": "Matei Dumitrescu"
+    },
+    {
+      "file": "summaries/15-anna-kowalska.json",
+      "name": "Anna Kowalska"
+    },
+    {
+      "file": "summaries/16-mehmet-yilmaz.json",
+      "name": "Mehmet Yılmaz"
+    },
+    {
+      "file": "summaries/17-ruta-kazlauskiene.json",
+      "name": "Rūta Kazlauskienė"
+    },
+    {
+      "file": "summaries/18-nikos-papadopoulos.json",
+      "name": "Nikos Papadopoulos"
+    },
+    {
+      "file": "summaries/19-ivana-horvat.json",
+      "name": "Ivana Horvat"
+    },
+    {
+      "file": "summaries/20-lukas-schneider.json",
+      "name": "Lukas Schneider"
+    },
+    {
+      "file": "summaries/21-radu-marinescu.json",
+      "name": "Radu Marinescu"
+    },
+    {
+      "file": "summaries/22-olga-petrova.json",
+      "name": "Olga Petrova"
+    },
+    {
+      "file": "summaries/23-cleo-popescu.json",
+      "name": "Cleo Popescu"
+    },
+    {
+      "file": "summaries/24-zsofia-nagy.json",
+      "name": "Zsófia Nagy"
+    },
+    {
+      "file": "summaries/25-emma-johansson.json",
+      "name": "Emma Johansson"
+    },
+    {
+      "file": "summaries/26-elif-demir.json",
+      "name": "Elif Demir"
+    },
+    {
+      "file": "summaries/27-ines-ferreira.json",
+      "name": "Inês Ferreira"
+    },
+    {
+      "file": "summaries/28-mikkel-larsen.json",
+      "name": "Mikkel Larsen"
+    },
+    {
+      "file": "summaries/29-sophie-martin.json",
+      "name": "Sophie Martin"
+    },
+    {
+      "file": "summaries/30-maria-stan.json",
+      "name": "Maria Stan"
+    }
+  ]
+}
